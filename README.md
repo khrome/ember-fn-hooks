@@ -5,7 +5,7 @@ Now that I'm working on some ember plugins, I'm finding I need deeper hooks than
 
 ```js
     const fnHooks = require('ember-fn-hooks');
-    fnHooks(Route, {
+    fnHooks.mutate(Route, {
         renderTemplate:function(){
 
         }
