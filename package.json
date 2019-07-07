@@ -1,6 +1,6 @@
 {
   "name": "ember-fn-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.1.4"
